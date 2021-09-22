@@ -9,5 +9,4 @@ class TestspringApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
